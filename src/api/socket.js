@@ -1,0 +1,1 @@
+export const socketURL = "wss://dataseven.ru"
